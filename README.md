@@ -1,10 +1,8 @@
 Do you use SpaceVim And would like to uses dracula Color scheme, put the
 following below in `~/.SpaceVim.d/init.toml` 
 
-```
 [[custom_plugins]]
   name = "dracula/vim"
-```toml
 [options]
   colorscheme = "dracula"
   colorscheme_bg = "dark
