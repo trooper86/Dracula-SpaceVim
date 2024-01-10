@@ -1,6 +1,6 @@
 
 #If you [use spacevim](https://spacevim.org), put the
-#following in `~/.SpaceVim.d/init.toml`:
+#following below in `~/.SpaceVim.d/init.toml`:
 
 ```
 [[custom_plugins]]
