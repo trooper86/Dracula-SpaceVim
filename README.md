@@ -13,6 +13,7 @@ following below in `~/.SpaceVim.d/init.toml`
   name = "dracula"
   merged = false
 
+Subsequently, restart vim or nvim and the installation will be completed.
 
 Dracula Colorscheme in SpaceVim:
 ![Screenshot_20240110_122040](https://github.com/trooper86/Dracula-SpaceVim/assets/128870400/b42a835c-6824-43b8-9ffb-dd103232fde9)
