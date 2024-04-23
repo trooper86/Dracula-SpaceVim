@@ -1,4 +1,4 @@
-dracula Color scheme, put the
+Dracula Color scheme, put the
 init.toml File in `~/.SpaceVim.d/init.toml` 
 
 Subsequently, restart vim or nvim and the installation will be completed.
