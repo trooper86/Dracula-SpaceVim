@@ -1,4 +1,4 @@
-Do you use SpaceVim And would like to use dracula Color scheme, put the
+dracula Color scheme, put the
 following below in `~/.SpaceVim.d/init.toml` 
 
 Subsequently, restart vim or nvim and the installation will be completed.
